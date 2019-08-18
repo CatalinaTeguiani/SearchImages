@@ -33,7 +33,7 @@ class ImageCard extends React.Component {
             src={urls.regular}
           />
           <br />
-          <a href={urls.regular} target="_blank">Info: {description}</a>
+          <a href={urls.regular} target="_blank" rel="noopener">Info: {description}</a>
         
         </div>
       </div>

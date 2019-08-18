@@ -3,3 +3,9 @@
   }
   
   */
+
+  .container {
+    marginTop: '2rem';
+    position: 'relative'; 
+    width: '80vw';
+  }
